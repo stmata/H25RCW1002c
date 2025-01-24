@@ -1,3 +1,5 @@
+let pi =3.142
+
 let timeoutID;
 
 function setOutput(outputContent) {
